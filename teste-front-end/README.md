@@ -1,5 +1,13 @@
 # teste-front-end
 
+
+### Compiles and hot-reloads for development
+```
+Vue Router
+Axios
+
+```
+
 ## Project setup
 ```
 yarn install
@@ -14,6 +22,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
