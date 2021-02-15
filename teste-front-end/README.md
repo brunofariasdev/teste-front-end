@@ -1,7 +1,5 @@
 # teste-front-end
 
-
-### Compiles and hot-reloads for development
 ```
 Vue Router
 Axios
